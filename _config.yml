@@ -1,0 +1,18 @@
+###########
+# site.title
+
+title:    'The Building Company'
+subtitle: 'Another Minimalistic Static Site Quick Starter Theme'
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- README.md
+- LICENSE.md

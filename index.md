@@ -91,7 +91,8 @@ Also to say thank you for looking after it while you were working on it, it was 
     </p>
     <div class="row">
     <div class="col-md-4">
-        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="http://thebuildingcompany.co/img/DSC00904.jpg" alt="Bootstrap Themes"></div></a>
+        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="
+        " alt="Bootstrap Themes"></div></a>
     </div>
     <div class="col-md-4">
         <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/langton-1.jpg" alt="Langton Drive"></div></a>

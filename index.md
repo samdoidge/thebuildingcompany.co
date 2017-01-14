@@ -5,7 +5,10 @@ title:  Welcome
 
 <main class="masthead" id="content">
     <div class="container">
-        <p class="lead">The Building Company</p>
+        <p class="lead">
+        <!--img src="/img/logo-large.png"  width="140px" alt="" style="margin-right:5px;"-->
+        The Building Company
+        </p>
     </div>
 </main>
 <div class="section">
@@ -66,7 +69,7 @@ Also to say thank you for looking after it while you were working on it, it was 
 
         <p>Accredited and endorsed, we have 25+ Years experience delivering the highest quality building work.</p>
         <div class="row">
-<div class="col-xs-8 offset-xs-2 col-md-6 offset-md-3">
+<div class="col-10 offset-1 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
 <img src="/img/accreditations.png" class="img-fluid" style="    text-align: center;
     margin: auto;
     display: block;
@@ -91,14 +94,13 @@ Also to say thank you for looking after it while you were working on it, it was 
     </p>
     <div class="row">
     <div class="col-md-4">
-        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="
-        " alt="Bootstrap Themes"></div></a>
+        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/thumbs/woughton-on-the-green-1.jpg" alt="Woughton On The Green"></div></a>
     </div>
     <div class="col-md-4">
-        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/langton-1.jpg" alt="Langton Drive"></div></a>
+        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/thumbs/langton-drive-1.jpg" alt="Langton Drive"></div></a>
     </div>
     <div class="col-md-4">
-        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/downs-barn-1.jpg" alt="Downs Barn "></div></a>
+        <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/thumbs/pottersbury-1.jpg" alt="Pottersbury"></div></a>
     </div>
     </div>
     </div>
@@ -150,7 +152,7 @@ Alterations</h4>
             <p class="lead">The Building Company is a family run business with over 25 years experience in the building industry. We pride ourselves on the quality of our work, the tidiness of our sites, the efficient running of our projects and our excellent customer service.</p>
             
             <p class="lead">
-            <a href="https://expo.getbootstrap.com/" class="btn btn-bs btn-outline">About Us</a>
+            <a href="/about" class="btn btn-bs btn-outline">About Us</a>
             </p>
           </div>
         </div>

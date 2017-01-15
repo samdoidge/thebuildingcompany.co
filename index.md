@@ -86,10 +86,10 @@ Also to say thank you for looking after it while you were working on it, it was 
   <div class="container">
     <h2 class="section-title">Our Work</h2>
     <p class="lead">
-      More of our work is being added soon.
+      Please find some of our completed projects below.
     </p>
 
-    <p class="lead">
+       <p class="lead">
       <a href="/our-work" class="btn btn-bs btn-outline">View Our Work</a>
     </p>
     <div class="row">
@@ -103,6 +103,7 @@ Also to say thank you for looking after it while you were working on it, it was 
         <a href="/our-work"><div class="card"><img class="img-fluid mx-auto" src="/img/thumbs/pottersbury-1.jpg" alt="Pottersbury"></div></a>
     </div>
     </div>
+ 
     </div>
   </div>
 

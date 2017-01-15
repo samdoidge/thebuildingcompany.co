@@ -36,5 +36,11 @@ permalink: /our-work/woughton-on-the-green/
 </div>
       </div>
 
+<div class="col-md-4">
+      <div class="card">
+  <img class="card-img-top" src="/img/thumbs/woughton-on-the-green-5.jpg" data-toggle="modal" data-target="#myModal" alt="An orangery built in keeping with the existing property." >
+
+</div>
+      </div>
     </div>
 

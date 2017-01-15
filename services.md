@@ -5,7 +5,7 @@ permalink: /services/
 ---
 
 <div class="row">
-      <div class="col-sm-4 mb-3">
+       <div class="col-md-4">
         <span class="fa-stack fa-4x purple">
           <i class="fa fa-circle fa-stack-2x "></i>
           <i class="fa fa-gavel fa-stack-1x fa-inverse"></i>
@@ -18,7 +18,7 @@ Alterations</h4>
 We will manage your project so that you have a single point of contact, whilst we liaise with tradespeople, architects, and planning departments on your behalf. We believe that good communication is the key to managing a successful renovation project and see our ability to develop good working relationships as one of our strengths.</p>
 <p>We supply a full schedule of works so you can see your project in detail and understand exactly what work is being undertaken, it’s a meticulous process and we include all the predictable jobs – no hidden extras, no nasty surprises. Of course if you change your mind along the way we can quickly supply you with an alternative schedule and costing.</p>
       </div>
-      <div class="col-sm-4 mb-3">
+       <div class="col-md-4">
         <span class="fa-stack fa-4x purple">
           <i class="fa fa-circle fa-stack-2x "></i>
           <i class="fa fa-building fa-stack-1x fa-inverse"></i>
@@ -41,7 +41,7 @@ We will manage your project so that you have a single point of contact, whilst w
 <li>Brickwork – from traditional techniques to modern design</li>
 </ul>
       </div>
-      <div class="col-sm-4 mb-3">
+       <div class="col-md-4">
         <span class="fa-stack fa-4x purple">
   <i class="fa fa-circle fa-stack-2x "></i>
   <i class="fa fa-home fa-stack-1x fa-inverse"></i>

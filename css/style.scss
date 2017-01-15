@@ -11,6 +11,11 @@ html {
     font-size: 16px;
 }
 
+.card-link, .card-link:hover, .card-link:focus {
+    text-decoration: none;
+    color: #555;
+}
+
 .card img {
     width:100%;
 }

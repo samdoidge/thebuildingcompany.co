@@ -95,7 +95,7 @@ Also to say thank you for looking after it while you were working on it, it was 
     </p>
     <div class="row">
       <div class="col-md-4">
-      <a class="card-link" href="/our-work/woughton-on-the-green">
+      <a class="card-link" href="/our-work/">
         <div class="card">
   <img class="card-img-top" src="/img/thumbs/woughton-on-the-green-1.jpg" alt="Orangery">
   <div class="card-block">
@@ -107,7 +107,7 @@ Also to say thank you for looking after it while you were working on it, it was 
     </a>
       </div>
       <div class="col-md-4">
-      <a class="card-link" href="/our-work/two-mile-ash">
+      <a class="card-link" href="/our-work/">
      <div class="card">
   <img class="card-img-top" src="/img/thumbs/langton-drive-1.jpg" alt="Second floor extension">
   <div class="card-block">
@@ -119,7 +119,7 @@ Also to say thank you for looking after it while you were working on it, it was 
     </a>
       </div>
        <div class="col-md-4">
-       <a class="card-link" href="/our-work/pottersbury">
+       <a class="card-link" href="/our-work/">
       <div class="card">
   <img class="card-img-top" src="/img/thumbs/pottersbury-1.jpg" alt="Pottersbury stone brick house">
   <div class="card-block">

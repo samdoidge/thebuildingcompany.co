@@ -5,10 +5,19 @@ title:  Welcome
 
 <main class="masthead" id="content">
     <div class="container">
-        <p class="lead">
+       
+          <div class="row">
+
+ <!--img src="/img/the-building-company.png" alt="" style="width:100%;"-->
+ <p class="lead">
         <!--img src="/img/logo-large.png"  width="140px" alt="" style="margin-right:5px;"-->
         The Building Company
         </p>
+
+    </div>
+        <!--img src="/img/logo-large.png"  width="140px" alt="" style="margin-right:5px;"-->
+     
+      
     </div>
 </main>
 <div class="section">

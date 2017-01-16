@@ -182,6 +182,9 @@ span.star.filled:before {
     color: #333;
 }
 
+.ekko-lightbox-nav-overlay a:hover, .ekko-lightbox-nav-overlay a:active, .ekko-lightbox-nav-overlay a:focus {
+    color: #ffffff;
+}
 
 @media (min-width: 768px) {
     .masthead {

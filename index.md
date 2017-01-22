@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Expert builders covering Milton Keynes.
+title:  Expert builders covering Milton Keynes
 ---
 
 <main class="masthead" id="content">

@@ -23,3 +23,24 @@
     text-align: center;
     margin: 1rem 0rem;
 }
+
+.location-links {
+    text-align: center;
+    color: #cccccc;
+}
+
+.location-links a {
+
+    color: #cccccc;
+}
+
+.location-links ul {
+    margin: 1rem 0rem;
+    list-style: none;
+    display: inline-block;
+}
+
+.location-links li {
+    margin-right:2em;
+    display: inline-block;
+}

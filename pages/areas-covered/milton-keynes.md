@@ -28,9 +28,9 @@ permalink: /builders-milton-keynes/
    </div>
 
  
-        <a href="/img/large/milton-keynes.jpg" data-toggle="lightbox" data-gallery="two-mile-ash">
+        <a href="/img/large/milton-keynes.jpg" data-toggle="lightbox" data-gallery="milton-keynes">
             <div class="card">
-                <img class="card-img-top" src="/img/thumbs/milton-keynes.jpg" alt="Additional second floor extension" >
+                <img class="card-img-top" src="/img/thumbs/milton-keynes.jpg" alt="Milton Keynes aerial view" >
             </div>
         </a>
 

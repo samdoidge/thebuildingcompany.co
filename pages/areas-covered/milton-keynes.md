@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Milton Keynes Builders
-permalink: /builders-milton-keynes
+permalink: /builders-milton-keynes/
 ---
 
 <div class="row">

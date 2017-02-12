@@ -20,6 +20,10 @@ html {
     width:100%;
 }
 
+.post img {
+    max-width: 100%;
+}
+
 html {
   position: relative;
   min-height: 100%;
@@ -180,6 +184,15 @@ span.star.filled:before {
     margin-bottom: .5rem;
     font-weight: normal;
     color: #333;
+}
+
+.post-title {
+
+margin-bottom:0.0em !important;
+}
+
+.post-title a {
+    color: #BE1E2D;
 }
 
 .ekko-lightbox-nav-overlay a:hover, .ekko-lightbox-nav-overlay a:active, .ekko-lightbox-nav-overlay a:focus {

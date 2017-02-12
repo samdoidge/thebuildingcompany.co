@@ -194,6 +194,26 @@ Alterations</h4>
           </div>
         </div>
 
+
+<div class="section">
+          <div class="container">
+            <h2 class="section-title">News</h2>
+
+            {% assign post = site.posts.first %}
+                {% assign content = post.content %}
+            
+
+        <p class="lead">{{ post.content | truncatewords:47 | strip_html }}</p>
+
+         
+            
+            <p class="lead">
+            <a href="/news" class="btn btn-bs btn-outline">Continue reading</a>
+            </p>
+          </div>
+        </div>
+
+
 <div class="section">
           <div class="container">
             <h2 class="section-title">Request a quote</h2>

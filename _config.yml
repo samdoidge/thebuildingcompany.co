@@ -18,3 +18,6 @@ sass:
 exclude:
 - README.md
 - LICENSE.md
+
+gems:
+  - jekyll-sitemap

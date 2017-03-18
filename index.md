@@ -99,9 +99,7 @@ Also to say thank you for looking after it while you were working on it, it was 
       Please find some of our completed projects below.
     </p>
 
-       <p class="lead">
-      <a href="/our-work" class="btn btn-bs btn-outline">View Our Work</a>
-    </p>
+      
     <div class="row">
       <div class="col-md-4">
       <a class="card-link" href="/our-work/">
@@ -109,8 +107,6 @@ Also to say thank you for looking after it while you were working on it, it was 
   <img class="card-img-top" src="/img/thumbs/woughton-on-the-green-1.jpg" alt="Orangery">
   <div class="card-block">
     <h4 class="card-title">Woughton On The Green</h4>
-
-    <!--a href="/our-work/woughton-on-the-green" class="btn btn-bs btn-outline">View more</a-->
   </div>
 </div>
     </a>
@@ -141,6 +137,9 @@ Also to say thank you for looking after it while you were working on it, it was 
       </div>
   </div>
     </div>
+     <p class="lead" style="margin-top:2em;">
+      <a href="/our-work" class="btn btn-bs btn-outline">View Our Work</a>
+    </p>
   </div>
 
 
@@ -148,9 +147,7 @@ Also to say thank you for looking after it while you were working on it, it was 
   <div class="container">
     <h2 class="section-title">Services</h2>
     <p class="lead">From alterations to new builds.</p>
-    <p class="lead">
-      <a href="/services" class="btn btn-bs btn-outline">View Our Services</a>
-    </p>
+    
     <div class="row">
       <div class="col-sm-4 mb-3">
         <span class="fa-stack fa-4x purple">
@@ -182,6 +179,9 @@ Alterations</h4>
 
 
   </div>
+   <p class="lead" style="margin-top:2em;">
+      <a href="/services" class="btn btn-bs btn-outline">View Our Services</a>
+    </p>
 </div>
 <div class="section">
           <div class="container">

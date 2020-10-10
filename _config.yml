@@ -19,5 +19,5 @@ exclude:
 - README.md
 - LICENSE.md
 
-gems:
+plugins:
   - jekyll-sitemap
